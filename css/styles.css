@@ -1,0 +1,31 @@
+body {
+	background-color: lightgray;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.container {
+	background-color: white;
+	margin: 0 auto;
+	width: 90%;
+	max-width: 960px;
+}
+
+h1, h2 {
+	font-family: 'Lato', sans-serif;
+}
+
+h2 {float: right;}
+
+header, .footer {
+	padding: 40px;
+}
+
+header, .sectOne, .sectTwo, .sectThree {
+	padding: 40px;
+	border-bottom: 2px solid lightgray;
+}
+
+img {
+	float: left;
+	padding-right: 50px;
+}
