@@ -14,11 +14,18 @@ h1, h2 {
 	font-family: 'Lato', sans-serif;
 }
 
-h2 {float: right;}
+/*TEMPORARY
+###########################*/
+h2 {float: right;
+}
+/*#########################
+TEMPORARY*/
 
 header, .footer {
 	padding: 40px;
 }
+
+header {text-align: center;}
 
 header, .sectOne, .sectTwo, .sectThree {
 	padding: 40px;
