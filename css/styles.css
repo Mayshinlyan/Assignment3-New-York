@@ -1,3 +1,8 @@
+/*
+CSS for Assignment 3, Team "NEW YORK"
+styles are loosely based off of http://jedmund.com/
+*/
+
 body {
 	background-color: lightgray;
 	font-family: 'Open Sans', sans-serif;
@@ -11,28 +16,32 @@ body {
 }
 
 h1, h2 {
-	font-family: 'Lato', sans-serif;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: normal;
+	color: gray;
 }
 
-/*TEMPORARY
-###########################*/
-h2 {float: right;
+.footer {
+	padding-left: 40px;
+	color: gray;
 }
-/*#########################
-TEMPORARY*/
 
-header, .footer {
+header {
+	text-align: center;
 	padding: 40px;
+	border-bottom: 1px solid lightgray;
 }
 
-header {text-align: center;}
-
-header, .sectOne, .sectTwo, .sectThree {
+.sectOne, .sectTwo, .sectThree {
 	padding: 40px;
-	border-bottom: 2px solid lightgray;
+	border-bottom: 1px solid lightgray;
+	float: left;
+	display: block;
 }
 
 img {
 	float: left;
 	padding-right: 50px;
 }
+
+
