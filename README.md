@@ -13,20 +13,25 @@ Hi, i'm  *Sidhant* I am working as the coder. My email is sahluwa3@u.rochester.e
 
 ### Information Architect
 
-blah blah blah
+* created readme and github repository
+* gathered relevant contents from the three students with common themes of "How they landed to Computer Science Major?"
+* created a basic information structure in the 4 html pages
+* gave instructions to coder and designer as comments in the index page to create a simple, elegant and professional look. 
 
 ### Designer
 
-blah blah blah
+
 
 ### Coder
 
-blah blah blah
+
 
 
 ## We are proud of the following aspect of our website:
 
-blah blah blah javascript, CSS...
+- simple, elegant and professional design 
+- image resizing javascript plugin 
+- fast, efficient and skilled team :)
 
 
 
