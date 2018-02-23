@@ -26,7 +26,7 @@ Hi, i'm  *Sidhant* I am working as the coder. My email is sahluwa3@u.rochester.e
 
 ### Coder
 
-
+* Resized images and logos for better aspect ratio
 
 
 ## We are proud of the following aspect of our website:
