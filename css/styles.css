@@ -15,7 +15,7 @@ body {
 	max-width: 960px;
 }
 
-h1, h2 {
+h1, h2, h3 {
 	font-family: 'Open Sans', sans-serif;
 	font-weight: normal;
 	color: gray;
@@ -24,6 +24,7 @@ h1, h2 {
 .footer {
 	padding-left: 40px;
 	color: gray;
+	word-wrap: break-word;
 }
 
 header {
@@ -42,6 +43,15 @@ header {
 img {
 	float: left;
 	padding-right: 50px;
+	max-width: 100%;
+	height: auto;
 }
 
+.subtitle {
+	letter-spacing: 2pt;
+	text-transform: lowercase;
+	text-align: center;
+	color: gray;
+}
 
+p {	line-height: 1.5em; }
