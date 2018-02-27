@@ -6,9 +6,13 @@
 	<title>Team New York</title>
 
     <link rel="stylesheet" type="text/css" href="css/styles.css">
+    <link rel="stylesheet" type="text/css" href="css/nav.css">
+
     <link href="https://fonts.googleapis.com/css?family=Lato|Open+Sans:300" rel="stylesheet">
  
 </head>
+
+
     
 <body>
 <div class="container">
@@ -17,7 +21,7 @@
         <h1>The Landing to Computer Science</h1>
         
 <!--     Coder please sync the nav here -->
-        <?php include "inc/nav.inc"; ?>
+        <?php include "css/nav.css"; ?>
 <!--    and also add a javascript plugin for auto image resize (this is an example: https://foliotek.github.io/Croppie/)-->
         
         
@@ -25,8 +29,20 @@
         
     
     </header>
+
+    <nav class="navigation">
+        <ol>   
+            <li> <a class="is-current" href="index.html">Home</a> </li>
+            <li> <a href="kyle.html">Kyle</a> </li>
+            <li> <a href="conley.html">Conley</a> </li>
+            <li> <a href="james.html">James</a> </li>
+
+        </ol>
+
+    </nav>
     
     <div class="sectOne">
+
 
 	<img src="images/kyle.jpg" alt="Kyle">
 	

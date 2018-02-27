@@ -20,9 +20,9 @@ Hi, i'm  *Sidhant* I am working as the coder. My email is sahluwa3@u.rochester.e
 
 ### Designer
 
-* created a CSS profile based on a loose interpretation of a certain website
+* created a CSS profile based on a loose interpretation of a website selected by the IA
 * selected and installed custom fonts from Google that match the style of the page
-* applied properties to images to make them adapt to the size of the screen (desktop vs. mobile).
+* applied properties to images to make them adapt to the size of the screen
 
 ### Coder
 

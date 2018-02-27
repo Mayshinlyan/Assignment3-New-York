@@ -6,6 +6,7 @@
 	<title>Conley Ernst</title>
 
     <link rel="stylesheet" type="text/css" href="css/styles.css">
+      <link rel="stylesheet" type="text/css" href="css/nav.css">
     <link href="https://fonts.googleapis.com/css?family=Lato|Open+Sans:300" rel="stylesheet">
  
 </head>
@@ -18,6 +19,17 @@
         <?php include "inc/nav.inc"; ?>
     
     </header>
+
+      <nav class="navigation">
+        <ol>   
+            <li> <a href="index.html">Home</a> </li>
+            <li> <a href="kyle.html">Kyle</a> </li>
+            <li> <a class="is-current" href="conley.html">Conley</a> </li>
+            <li> <a href="james.html">James</a> </li>
+
+        </ol>
+
+    </nav>
     
     <h2 class="subtitle">Conley Ernst</h2>
     
