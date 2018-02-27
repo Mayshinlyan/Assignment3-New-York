@@ -22,10 +22,10 @@
 
       <nav class="navigation">
         <ol>   
-            <li> <a href="index.html">Home</a> </li>
-            <li> <a href="kyle.html">Kyle</a> </li>
-            <li> <a href="conley.html">Conley</a> </li>
-            <li> <a class="is-current" href="james.html">James</a> </li>
+            <li> <a href="index.php">Home</a> </li>
+            <li> <a href="kyle.php">Kyle</a> </li>
+            <li> <a href="conley.php">Conley</a> </li>
+            <li> <a class="is-current" href="james.php">James</a> </li>
 
         </ol>
 
