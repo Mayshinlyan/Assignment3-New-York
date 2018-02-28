@@ -22,12 +22,12 @@
     <header>
         <h1>The Landing to Computer Science</h1>
         
-<!--     Coder please sync the nav here -->
+<!--    Coder please sync the nav here -->
         
-<!--    and also add a javascript plugin for auto image resize (this is an example: https://foliotek.github.io/Croppie/)-->
+<!--    and also add a javascript plugin for menu-highlighter (this is an example: https://highlightjs.org/usage/)-->
         
         
-<!--      Designer please follow the layout from here http://jedmund.com/-- to give a simple, elegant and professional look. !-->
+<!--    Designer please follow the layout from here http://jedmund.com/-- to give a simple, elegant and professional look. !-->
         
     
     </header>
@@ -79,18 +79,18 @@
     </div>
         
     
-
+    
 	<div class="footer">
         
-        <h2>Credit to</h2>
+        <h2>Special Credit:</h2>
         <ul>
-        <li>http://urcsc174.org/assignment01/cernst/work.php</li>
-        <li>http://urcsc174.org/assignment01/kpollock/index.php</li>
-        <li>http://urcsc174.org/assignment01/jfazio/image</li>
+            <li><a href="http://urcsc174.org/assignment01/cernst/work.php"> Conley Ernst</a></li>
+            <li><a href="http://urcsc174.org/assignment01/kpollock/index.php"> Kyle Pollock</a></li>
+            <li><a href="http://urcsc174.org/assignment01/jfazio/image"> James Fazio</a></li>
         </ul>
 
         <p>
-           &copy; Created by team New York 
+           &copy; 2018 Created by team New York 
         </p>
 
     </div>

@@ -60,16 +60,7 @@
         <h3>Work Experience</h3>
 
         <p> 
-            Founder &amp; Chief Software Architect at Espre Studios, LLC
-            May 2017 - Present
-            Market Research and Business Development Intern at CommunityRoot
-            June 2017 - August 2017 (3 months)
-            Software Development Intern at VoicePort, LLC
-            May 2017 - August 2017 (4 months)
-            Cancer Stem Cell Researcher at Cleveland Clinic
-            October 2013 - May 2014 (8 months) 
-            Assisted with advanced research regarding cancer stem cells
-            Learned basic lab procedures and tests such as RT-PCR, western blotting, and flow cytometry.
+            I am the founder &amp; Chief Software Architect at Espre Studios, LLC. I started it on May 2017 and is still running it now. I have also done Market Research and Business Development Intern at CommunityRoot from June 2017 to August 2017 for 3 months. Apart from that, I have also worked as Software Development Intern at VoicePort, LLC from May 2017 to August 2017 for four months. Moreover, I have also been a Cancer Stem Cell Researcher at Cleveland Clinic form October 2013 to May 2014 for eight months. 
         </p>
         
     </div>
@@ -77,13 +68,19 @@
     
 
 	<div class="footer">
+        
+        <h2>Special Credit:</h2>
+        <ul>
+            <li><a href="http://urcsc174.org/assignment01/cernst/work.php"> Conley Ernst </a></li>
+            <li><a href="http://urcsc174.org/assignment01/kpollock/index.php"> Kyle Pollock </a></li>
+            <li><a href="http://urcsc174.org/assignment01/jfazio/image"> James Fazio</a></li>
+        </ul>
 
         <p>
-           &copy; Created by team New York 
+           &copy; 2018 Created by team New York 
         </p>
 
     </div>
-
 </div><!--container-->
 </body>
 </html>

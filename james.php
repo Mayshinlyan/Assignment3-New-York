@@ -60,7 +60,7 @@
         <h3>Work Experience</h3>
 
         <p> 
-          From November of 2015 through August of 2017, I worked as a Specialist at an Apple Retail Store. As a self-proclaimed Apple enthusiast, I had always wanted to work for the company in any capacity and applied for a retail spot when I turned 18. A full year later, I received an email invitation to a hiring event, Apple’s unique but effective format of selecting its employees. After five total interviews/events and a month of training and shadowing, I was officially a Specialist at Apple. Working for Apple, even at the retail level, was an incredible experience. The entire 90+ employee team worked and communicated together like nothing I had ever seen before, and it was clear that Apple Corporate had a genuine respect for its retail workers. Over the course of my almost two years at Apple, I developed a number of strong relationships with my coworkers, and it really did feel like a family; you would be very hard-pressed to find a retail setting that incorporates this level of team-building, and Apple nails it. I left the company in August of 2017 to focus on schoolwork, as I work towards graduating in the Spring and pursuing a position in software or web engineering.
+          From November of 2015 through August of 2017, I worked as a Specialist at an Apple Retail Store. As a self-proclaimed Apple enthusiast, I had always wanted to work for the company in any capacity and applied for a retail spot when I turned 18. A full year later, I received an email invitation to a hiring event, Apple’s unique but effective format of selecting its employees. After five total interviews/events and a month of training and shadowing, I was officially a Specialist at Apple. Working for Apple, even at the retail level, was an incredible experience. The entire 90+ employee team worked and communicated together. 
         </p>
         
     </div>
@@ -68,9 +68,16 @@
     
 
 	<div class="footer">
+        
+        <h2>Special Credit:</h2>
+        <ul>
+            <li><a href="http://urcsc174.org/assignment01/cernst/work.php"> Conley Ernst</a></li>
+            <li><a href="http://urcsc174.org/assignment01/kpollock/index.php"> Kyle Pollock</a></li>
+            <li><a href="http://urcsc174.org/assignment01/jfazio/image"> James Fazio</a></li>
+        </ul>
 
         <p>
-           &copy; Created by team New York 
+           &copy; 2018 Created by team New York 
         </p>
 
     </div>
