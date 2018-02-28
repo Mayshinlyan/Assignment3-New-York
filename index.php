@@ -14,13 +14,18 @@
     
 <body>
 <div class="container">
+    
+<!--  Designer please follow the layout and look from here http://jedmund.com/ to create a simple, elegant and professional look-->
+    
+    
+<!--The main title of the site-->
 
     <header>
         <h1>The Landing to Computer Science</h1>
     </header>
     
 <!--    Coder please sync the nav here -->
-<!--    and also add a javascript plugin for menu-highlighter (this is an example: https://highlightjs.org/usage/)-->
+<!--    and also add a javascript plugin for menu-highlighter and/or image switcher javascript plugin (this is an example: https://highlightjs.org/usage/)-->
     
    <?php include "inc/nav.inc"; ?>
     
@@ -32,8 +37,6 @@
                 onmouseover=this.src='images/voiceport-big.jpg';
                 onmouseout=this.src='images/kyle.jpg';
             >
-
-	
     
     <h2>Kyle Pollock</h2>
         
@@ -41,6 +44,7 @@
     <p>I'm a total nerd. And, like most nerds, I played a lot of video games as a kid. I eventually got bored of playing the same games, so I started to modify the code behind my games: adding to them, perfecting them. I didn't know it then, but that was just the start of my love of programming. I moved on from just coding video games to learning multiple programming languages and coding more and more, both in the classroom and beyond. </p>
         
     </div>
+    
 <!--    sectTwo includes brief info of person two-->
     <div class="sectTwo">
 
@@ -55,7 +59,8 @@
 	<p>I am a Junior at the University of Rochester double majoring in Computer Science and Digital Media Studies, which provides the unique intersection of engineering and creative arts. Studying to be a software engineer, my academic and professional experience has given me a strong understanding of both the technical and user experience sides of a product.</p>
         
     </div>
-<!--    sectThree incldues brief info of person three-->
+    
+<!--    sectThree includes brief info of person three-->
     <div class="sectThree">
 
 	<img src="images/james.jpg" alt="James"

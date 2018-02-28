@@ -16,15 +16,20 @@
 
 <div class="container">
     
+    <!--Designer please follow the layout and look from here http://jedmund.com/ to create a simple, elegant and professional look-->
+    
+    <!--The main title of the site-->
     <header>
         <h1>The Landing to Computer Science</h1>
     
     </header>
 
-  <?php include "inc/nav.inc"; ?>
+    <!--Coder please sync the nav here -->
+    <?php include "inc/nav.inc"; ?>
     
     <h2 class="subtitle">James Fazio</h2>
     
+    <!--sectOne briefly decribes about the Person-->
     <div class="sectOne">
 
         <img src="images/james.jpg" alt="James">
@@ -36,6 +41,7 @@
 
     </div>
     
+    <!--secTwo states about how the person landed to Computer Science -->
     <div class="sectTwo">
 
         <h3>How James landed to Computer Science?</h3>
@@ -45,6 +51,7 @@
 
     </div>
     
+    <!--sectThree states the work experience-->
     <div class="sectThree">
 
         <img src="images/apple.jpg" alt="Apple"> 
@@ -58,16 +65,8 @@
     </div>
         
     
-
+    <!--footer goes here -->
 	<div class="footer">
-        
-        <h2>Special Credit:</h2>
-        <ul>
-            <li><a href="http://urcsc174.org/assignment01/cernst/work.php"> Conley Ernst</a></li>
-            <li><a href="http://urcsc174.org/assignment01/kpollock/index.php"> Kyle Pollock</a></li>
-            <li><a href="http://urcsc174.org/assignment01/jfazio/image"> James Fazio</a></li>
-        </ul>
-
         <p>
            &copy; 2018 Created by team New York 
         </p>

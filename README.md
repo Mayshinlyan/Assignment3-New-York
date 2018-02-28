@@ -16,7 +16,8 @@ Hi, i'm  *Sidhant* I am working as the coder. My email is sahluwa3@u.rochester.e
 * created readme and github repository
 * gathered relevant contents from the three students with common themes of "How they landed to Computer Science Major?"
 * created a basic information structure in the 4 html pages
-* gave instructions to coder and designer as comments in the index page to create a simple, elegant and professional look. 
+* gave instructions to coder to add nav bar and javascript plugin for menu-highlighter and/or image switching plugin
+* gave instructions to the designer to create a simple, elegant and professional look by following the layout from http://jedmund.com/
 
 ### Designer
 

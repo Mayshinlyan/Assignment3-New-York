@@ -13,17 +13,22 @@
 <body>
 <div class="container">
     
+    <!--Designer please follow the layout and look from here http://jedmund.com/ to create a simple, elegant and professional look-->
+    
+    <!--The main title of the site-->
     <header>
         <h1>The Landing to Computer Science</h1>
     
     </header>
-
+    
+    <!--Coder please sync the nav here -->
        <?php include "inc/nav.inc"; ?>
 
     
     
     <h2 class="subtitle">Conley Ernst</h2>
     
+    <!--sectOne briefly decribes about Person One-->
     <div class="sectOne">
 
         <img src="images/conley.jpg" alt="Conley">
@@ -35,6 +40,7 @@
 
     </div>
     
+    <!-- secTwo states about how the person landed to Computer Science -->
     <div class="sectTwo">
 
         <h3>How Conley landed to Computer Science?</h3>
@@ -44,6 +50,7 @@
 
     </div>
     
+     <!--secThree states the work experience-->
     <div class="sectThree">
 
         <img src="images/drift.jpg" alt="Drift">
@@ -57,7 +64,7 @@
     </div>
         
     
-
+   <!--footer goes here -->
 	<div class="footer">
 
         <p>
