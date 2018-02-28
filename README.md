@@ -27,12 +27,16 @@ Hi, i'm  *Sidhant* I am working as the coder. My email is sahluwa3@u.rochester.e
 ### Coder
 
 * Resized images and logos for better aspect ratio
+* Created bigger sized logos for js plugin
+* Implemented image switcher plugin, in the home tab if you hover over the image it displays the companies logo
+* Moved nav to includes file to make code efficient
+* Added js for current tab highlight
 
 
 ## We are proud of the following aspect of our website:
 
 - simple, elegant and professional design 
-- image resizing javascript plugin 
+- image switcher javascript plugin 
 - fast, efficient and skilled team :)
 
 
