@@ -20,19 +20,24 @@ Hi, i'm  *Sidhant* I am working as the coder. My email is sahluwa3@u.rochester.e
 
 ### Designer
 
-* created a CSS profile based on a loose interpretation of a website selected by the IA
+* created a CSS profile based on a loose interpretation of a professional website
 * selected and installed custom fonts from Google that match the style of the page
 * applied properties to images to make them adapt to the size of the screen
+* styled the js plugins to match the look and feel of the rest of the page
 
 ### Coder
 
 * Resized images and logos for better aspect ratio
+* Created bigger sized logos for js plugin
+* Implemented image switcher plugin, in the home tab if you hover over the image it displays the companies logo
+* Moved nav to includes file to make code efficient
+* Added js for current tab highlight
 
 
 ## We are proud of the following aspect of our website:
 
 - simple, elegant and professional design 
-- image resizing javascript plugin 
+- image switcher javascript plugin 
 - fast, efficient and skilled team :)
 
 
