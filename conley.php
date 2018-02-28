@@ -8,6 +8,7 @@
     <link rel="stylesheet" type="text/css" href="css/styles.css">
       <link rel="stylesheet" type="text/css" href="css/nav.css">
     <link href="https://fonts.googleapis.com/css?family=Lato|Open+Sans:300" rel="stylesheet">
+    <?php include "css/nav.css"; ?>
  
 </head>
     
@@ -16,7 +17,6 @@
     
     <header>
         <h1>The Landing to Computer Science</h1>
-        <?php include "inc/nav.inc"; ?>
     
     </header>
 

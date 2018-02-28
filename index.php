@@ -9,6 +9,8 @@
     <link rel="stylesheet" type="text/css" href="css/nav.css">
 
     <link href="https://fonts.googleapis.com/css?family=Lato|Open+Sans:300" rel="stylesheet">
+
+    <?php include "css/nav.css"; ?>
  
 </head>
 
@@ -21,7 +23,7 @@
         <h1>The Landing to Computer Science</h1>
         
 <!--     Coder please sync the nav here -->
-        <?php include "css/nav.css"; ?>
+        
 <!--    and also add a javascript plugin for auto image resize (this is an example: https://foliotek.github.io/Croppie/)-->
         
         
