@@ -29,19 +29,10 @@ styles are loosely based off of http://jedmund.com/
     color: blue;
     background-color: pink;
 }
-
-.nav a:active {
-    color: yellow;
+a.current {
+  background:red;
+  color:white;
 }
-
-.nav a.is-current{
-   color: yellow;
-}
-
-.nav a.active {
-    color: yellow;
-}
-
 
 
 body {
