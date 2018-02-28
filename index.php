@@ -5,12 +5,10 @@
 	
 	<title>Team New York</title>
 
-    <link rel="stylesheet" type="text/css" href="css/styles.css">
+    <link rel="stylesheet" type="text/css" href="css/styles.css">      
     <link rel="stylesheet" type="text/css" href="css/nav.css">
 
     <link href="https://fonts.googleapis.com/css?family=Lato|Open+Sans:300" rel="stylesheet">
-
-    <?php include "css/nav.css"; ?>
  
 </head>
 
@@ -21,15 +19,12 @@
     
     <header>
         <h1>The Landing to Computer Science</h1>
-        
-<!--    Coder please sync the nav here -->
+       
+ <!--    Coder please sync the nav here -->
         
 <!--    and also add a javascript plugin for menu-highlighter (this is an example: https://highlightjs.org/usage/)-->
         
-        
-<!--    Designer please follow the layout from here http://jedmund.com/-- to give a simple, elegant and professional look. !-->
-        
-    
+                    
     </header>
 
     <nav class="navigation">
