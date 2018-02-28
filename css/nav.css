@@ -18,7 +18,11 @@
   	text-decoration: none;
  
 }
+
 .is-current{
-	color: white;
-	background-color: red;
+  background-color: lightgray;
+}
+
+a:visited {
+  color: black;
 }
