@@ -3,6 +3,47 @@ CSS for Assignment 3, Team "NEW YORK"
 styles are loosely based off of http://jedmund.com/
 */
 
+
+.nav {
+    width: 100%;
+  display: inline-block;
+  text-align: center;
+
+  list-style: none;
+  background-color: white;
+  border-bottom: 1px solid #ccc;
+}
+
+.nav li{
+   display: inline-block;
+  text-align:center; 
+}
+
+.nav li a {
+    padding: 4px;
+  margin: 4px;
+  text-decoration: none;
+}
+
+.nav a:hover {
+    color: blue;
+    background-color: pink;
+}
+
+.nav a:active {
+    color: yellow;
+}
+
+.nav a.is-current{
+   color: yellow;
+}
+
+.nav a.active {
+    color: yellow;
+}
+
+
+
 body {
 	background-color: lightgray;
 	font-family: 'Open Sans', sans-serif;
@@ -63,3 +104,4 @@ p {	line-height: 1.5em; }
 .footer p {
 	text-align: center;
 }
+

@@ -6,13 +6,14 @@
 	<title>James Fazio</title>
 
     <link rel="stylesheet" type="text/css" href="css/styles.css">
-      <link rel="stylesheet" type="text/css" href="css/nav.css">
     <link href="https://fonts.googleapis.com/css?family=Lato|Open+Sans:300" rel="stylesheet">
-    <?php include "css/nav.css"; ?>
 
 </head>
     
 <body>
+
+  
+
 <div class="container">
     
     <header>
@@ -20,22 +21,13 @@
     
     </header>
 
-      <nav class="navigation">
-        <ol>   
-            <li> <a href="index.php">Home</a> </li>
-            <li> <a href="kyle.php">Kyle</a> </li>
-            <li> <a href="conley.php">Conley</a> </li>
-            <li> <a class="is-current" href="james.php">James</a> </li>
-
-        </ol>
-
-    </nav>
+  <?php include "inc/nav.inc"; ?>
     
     <h2 class="subtitle">James Fazio</h2>
     
     <div class="sectOne">
 
-	    <img src="images/james.jpg" alt="James">
+        <img src="images/james.jpg" alt="James">
     
         <h3>About James</h3>
 
@@ -83,5 +75,6 @@
     </div>
 
 </div><!--container-->
+<script type="text/javascript" src="js/scripts.js"></script>
 </body>
 </html>

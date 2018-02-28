@@ -6,7 +6,6 @@
 	<title>Team New York</title>
 
     <link rel="stylesheet" type="text/css" href="css/styles.css">      
-    <link rel="stylesheet" type="text/css" href="css/nav.css">
 
     <link href="https://fonts.googleapis.com/css?family=Lato|Open+Sans:300" rel="stylesheet">
  
@@ -27,21 +26,16 @@
                     
     </header>
 
-    <nav class="navigation">
-        <ol>   
-            <li> <a class="is-current" href="index.php">Home</a> </li>
-            <li> <a href="kyle.php">Kyle</a> </li>
-            <li> <a href="conley.php">Conley</a> </li>
-            <li> <a href="james.php">James</a> </li>
-
-        </ol>
-
-    </nav>
+   <?php include "inc/nav.inc"; ?>
     
     <div class="sectOne">
 
 
-	<img src="images/kyle.jpg" alt="Kyle">
+	<img src="images/kyle.jpg" alt="Kyle" 
+                onmouseover=this.src='images/voiceport-big.jpg';
+                onmouseout=this.src='images/kyle.jpg';
+            >
+
 	
     
     <h2>Kyle Pollock</h2>
@@ -53,7 +47,10 @@
     
     <div class="sectTwo">
 
-	<img src="images/Conley.jpg" alt="Conley">
+	<img src="images/conley.jpg" alt="Conley"
+                onmouseover=this.src='images/drift-big.jpg';
+                onmouseout=this.src='images/conley.jpg';
+            >
 	
         
     <h2>Conley Ernst</h2>
@@ -64,7 +61,9 @@
     
     <div class="sectThree">
 
-	<img src="images/James.jpg" alt="James">
+	<img src="images/james.jpg" alt="James"
+             onmouseover=this.src='images/apple-big.jpg';
+                onmouseout=this.src='images/james.jpg';>
 
     
     <h2>James Fazio</h2>
